@@ -1,0 +1,4 @@
+huggingface_hub>=0.24.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+tqdm>=4.64.0

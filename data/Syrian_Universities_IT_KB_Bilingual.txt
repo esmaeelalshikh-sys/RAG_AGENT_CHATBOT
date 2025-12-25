@@ -1,0 +1,160 @@
+Knowledge Base – كليات الهندسة المعلوماتية في الجامعات السورية  
+Faculties of Informatics Engineering in Syrian Universities
+================================================================
+
+---------------------------------------------------------------
+### 1) كلية الهندسة المعلوماتية – جامعة دمشق  
+Faculty of Informatics Engineering – University of Damascus
+---------------------------------------------------------------
+
+#### نبذة عن الكلية / College Overview
+كلية الهندسة المعلوماتية بجامعة دمشق تهدف إلى تخريج مهندسين متخصصين في علوم الحاسوب وتكنولوجيا المعلومات، قادرين على تطوير البرمجيات، إدارة الشبكات، تصميم نظم المعلومات، وتحليل البيانات.  
+The Faculty of Informatics Engineering at the University of Damascus aims to graduate specialized engineers in computer science and information technology, capable of software development, network management, information systems design, and data analysis.
+
+الأقسام: هندسة البرمجيات، نظم المعلومات، الشبكات والاتصالات، الذكاء الاصطناعي.  
+Departments: Software Engineering, Information Systems, Networks & Communications, Artificial Intelligence.
+
+#### نظام الدراسة / Study System
+التسجيل يتم مرة واحدة في بداية السنة.  
+Yearly registration at the beginning of the academic year.  
+النظام مقسّم إلى فصلين دراسيين.  
+Two-semester academic system.
+
+#### الخطة الدراسية المختصرة / Curriculum Summary
+1: رياضيات، فيزياء، برمجة، مقدمة في الحاسوب. / Math, Physics, Programming, Intro to CS  
+2: برمجة 2، رياضيات 2، هياكل البيانات، نظم التشغيل.   
+3: قواعد المعطيات، شبكات 1، الذكاء الاصطناعي، هندسة البرمجيات 1.  
+4: نظم المعلومات، شبكات 2، ذكاء اصطناعي متقدم، هندسة البرمجيات 2.   
+5: مشروع التخرج + مواد اختيارية.  
+
+-------------------------------------------------------------------
+### 2) كلية الهندسة المعلوماتية – جامعة حلب  
+Faculty of Informatics Engineering – University of Aleppo
+-------------------------------------------------------------------
+
+#### نبذة عن الكلية / College Overview
+تُعد الكلية من المؤسسات التعليمية الرائدة في شمال سوريا، مع اهتمام خاص بالتطبيقات العملية والبحث العلمي.  
+The faculty is one of the leading academic institutions in northern Syria, with a strong focus on applied work and research.
+
+الأقسام: علوم الحاسوب، هندسة البرمجيات، شبكات الحاسوب، نظم المعلومات.  
+Departments: Computer Science, Software Engineering, Computer Networks, Information Systems.
+
+#### نظام الدراسة / Study System
+النظام يمتد لخمس سنوات (10 فصول).  
+Five-year program (10 semesters).  
+السنة الخامسة لمشروع التخرج والمواد الاختيارية.  
+Year 5 dedicated to graduation project & electives.
+
+#### الخطة الدراسية المختصرة / Curriculum Summary
+1: أساسيات البرمجة، رياضيات هندسية، فيزياء، مهارات الحاسوب.  
+2: البرمجة كائنية التوجه، هياكل البيانات، رياضيات متقطعة، أساسيات الشبكات.  
+3: قواعد البيانات، نظم التشغيل، هندسة البرمجيات 1، المنطق الرقمي.  
+4: أمن المعلومات، الذكاء الاصطناعي، تطوير الويب، مشروع السنة.  
+5: مشروع التخرج، مواضيع مختارة في AI والأمن السيبراني.  
+
+------------------------------------------------------------------------
+### 3) كلية الهندسة المعلوماتية – جامعة البعث (حمص)  
+Faculty of Informatics Engineering – Al-Baath University (Homs)
+------------------------------------------------------------------------
+
+#### نبذة عن الكلية / College Overview
+تسعى إلى تأهيل مهندسين قادرين على المنافسة في سوق العمل، مع تركيز على التطبيقات العملية والتقنيات الحديثة.  
+The faculty aims to prepare competitive engineers with strong focus on practical skills and modern technologies.
+
+الأقسام: هندسة البرمجيات، أنظمة الشبكات، الذكاء الاصطناعي وعلوم البيانات.  
+Departments: Software Engineering, Network Systems, AI & Data Science.
+
+#### نظام الدراسة / Study System
+مدة الدراسة خمس سنوات، مع اعتماد جزئي لنظام الساعات المعتمدة.  
+Five-year duration, partially using a credit-hour system.
+
+#### الخطة الدراسية المختصرة / Curriculum Summary
+1: برمجة 1، تحليل عددي، رياضيات هندسية، إلكترونيات.  
+2: البرمجة المتقدمة، هياكل البيانات، نظرية الحوسبة، إحصاء.  
+3: قواعد البيانات، تحليل الخوارزميات، هندسة البرمجيات، مقدمة AI.  
+4: أمن الشبكات، تعلم آلي، تطبيقات الموبايل، مشروع السنة.  
+5: مشروع التخرج + اختياريات (معالجة صور، أمن سيبراني، بيانات ضخمة).  
+
+-----------------------------------------------------------------
+### 4) كلية الهندسة المعلوماتية – جامعة تشرين (اللاذقية)  
+Faculty of Informatics Engineering – Tishreen University (Latakia)
+-----------------------------------------------------------------
+
+#### نبذة عن الكلية / College Overview
+تتميز بتركيزها على الذكاء الاصطناعي وعلوم البيانات، إضافة إلى التخصصات التقليدية.  
+The faculty is recognized for its focus on AI & Data Science in addition to traditional fields.
+
+الأقسام: هندسة البرمجيات، نظم المعلومات، شبكات وأمن سيبراني، ذكاء اصطناعي.  
+Departments: Software Engineering, Management Information Systems, Networks & Cybersecurity, Artificial Intelligence.
+
+#### نظام الدراسة / Study System
+النظام يمتد لخمس سنوات مقسمة إلى فصلين.  
+Five-year two-semester academic system.
+
+#### الخطة الدراسية المختصرة / Curriculum Summary
+1: أساسيات البرمجة، رياضيات 1، فيزياء، مبادئ المعلوماتية.  
+2: OOP، هياكل البيانات، رياضيات 2، معمارية الحواسيب.  
+3: قواعد البيانات، هندسة البرمجيات 1، شبكات 1، ذكاء اصطناعي 1.  
+4: أمن الحاسوب، هندسة البرمجيات 2، مشروع نظم المعلومات، ذكاء اصطناعي 2.  
+5: مشروع التخرج + اختياريات (تعلم عميق، إنترنت الأشياء، سحابة).  
+
+----------------------------------------------------------------------
+### 5) كلية الهندسة المعلوماتية – جامعة إدلب  
+Faculty of Informatics Engineering – University of Idlib
+----------------------------------------------------------------------
+
+#### نبذة عن الكلية / College Overview
+تعد من الكليات الحديثة نسبيًا، وتهدف إلى إعداد مهندسين قادرين على تطوير الحلول الرقمية تماشيًا مع متطلبات السوق في شمال غرب سوريا.  
+The Faculty of Informatics Engineering at the University of Idlib is a relatively new institution aiming to prepare engineers capable of developing digital solutions aligned with the market needs in Northwestern Syria.
+
+الأقسام: هندسة البرمجيات، علوم الحاسوب، نظم المعلومات.  
+Departments: Software Engineering, Computer Science, Information Systems.
+
+#### نظام الدراسة / Study System
+تعتمد الكلية نظام السنوات الخمس التقليدي، مع دمج تدريجي للمقررات العملية والمشاريع.  
+The faculty follows a five-year academic structure with increasing emphasis on practical coursework and projects.
+
+#### الخطة الدراسية المختصرة / Curriculum Summary
+1: برمجة 1، رياضيات 1، فيزياء، مهارات الحاسوب.  
+2: برمجة 2، هياكل البيانات، رياضيات متقطعة، منطق رقمي.  
+3: قواعد البيانات، هندسة البرمجيات، شبكات 1، نظم التشغيل.  
+4: ذكاء اصطناعي، أمن الشبكات، تطوير تطبيقات الويب، مشروع السنة.  
+5: مشروع التخرج + اختياريات (مثل: تعلم الآلة، تحليل البيانات، تطوير التطبيقات).  
+
+--------------------------------------------------------------
+### 6) معلومات مشتركة بين الجامعات  
+Common Information Across Universities
+--------------------------------------------------------------
+
+#### اللوائح والإجراءات الأكاديمية / Academic Regulations
+- التقييم 60–70% نظري + 30–40% عملي.  
+- شروط دخول الامتحان تعتمد على حضور العملي.  
+- الامتحانات تتم نهاية كل فصل.  
+Grades: 60–70% theory, 30–40% lab.  
+Final exams held at semester end.
+
+#### المشاريع / Projects
+مشروع السنة الرابعة: مشروع تطبيقي يدمج معارف الطالب.  
+Year 4 Project: integrative applied project.  
+مشروع التخرج: مشروع بحثي أو تطبيقي يُقيّم من لجنة.  
+Graduation Project: research or applied, evaluated by a committee.
+
+--------------------------------------------------------------
+### 7) أسئلة شائعة وإجابات نموذجية / FAQs
+--------------------------------------------------------------
+
+*هل يمكن الانتقال بين التخصصات؟*  
+لا يُسمح غالبًا أو يكون صعبًا.  
+Changing majors is generally not allowed.
+
+*هل تختلف الخطط بين الجامعات؟*  
+الهيكل العام متشابه، الاختلاف في ترتيب المواد والتركيز التقني.  
+General structure is similar; differences in course order and focus.
+
+*ما هي لغة التدريس؟*  
+العربية أساسًا، مع استخدام واسع للإنجليزية في المختبرات والكتب.  
+Arabic mainly; English widely used in labs and references.
+
+*متى يبدأ اختيار المواد الاختيارية؟*  
+عادة في السنتين الرابعة والخامسة.  
+Usually in 4th and 5th years.
