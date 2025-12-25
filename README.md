@@ -83,6 +83,7 @@ python main.py
 - `data/`: Knowledge base files.
   - `Syrian_Universities_IT_KB_Bilingual.txt`: Bilingual dataset for Informatics Engineering.
 - `embeddings/`: Directory for storing generated embeddings.
+- `project test/`: Directory contains part of the preset screenshot and system test files(PNG & PDF).
 - `utils.py`: Helper functions, including language detection.
 - `requirements.txt`: Python dependencies.
 - `README.md`: This file.
@@ -111,4 +112,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - Built with [Hugging Face Transformers](https://huggingface.co/) for generative AI.
 - Vector search powered by [FAISS](https://github.com/facebookresearch/faiss).
+
 - Web UI via [Streamlit](https://streamlit.io/).
